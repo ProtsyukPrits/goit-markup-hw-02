@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto", "Railway", sans-serif;
+  font-family: 'Roboto', 'Railway', sans-serif;
   color: #000000;
 }
 
@@ -59,7 +59,8 @@ body {
 .our-work,
 .our-team__list,
 .anchors,
-.portfolio {
+.portfolio,
+.footer__logo {
   list-style: none;
   text-decoration: none;
 }
